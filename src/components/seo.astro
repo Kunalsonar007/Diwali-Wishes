@@ -1,0 +1,16 @@
+---
+---
+
+<script>
+const link = document.querySelector('link[rel="canonical"]')
+    ? document.querySelector('link[rel="canonical"]')
+    : document.createElement('link');
+const pathname = typeof window !== 'undefined' ? window.location.href : '';
+link.setAttribute('rel', 'canonical');
+link.setAttribute('href', pathname);
+document.head.appendChild(link);
+const ogurl = document.createElement('meta');
+  ogurl.setAttribute('property', 'og:url');
+  ogurl.content = pathname;
+  document.getElementsByTagName('head')[0].appendChild(ogurl)
+</script>
