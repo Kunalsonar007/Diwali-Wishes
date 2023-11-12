@@ -1,6 +1,3 @@
-# Astro Diwali Wishes
-
-[![build-script](https://github.com/sanwebinfo/astro-diwali-wishes/actions/workflows/build.yml/badge.svg)](https://github.com/sanwebinfo/astro-diwali-wishes/actions/workflows/build.yml) [![netlify-deploy](https://github.com/sanwebinfo/astro-diwali-wishes/actions/workflows/deploy.yml/badge.svg)](https://github.com/sanwebinfo/astro-diwali-wishes/actions/workflows/deploy.yml)  
 
 Happy Diwali Greeting Wishes - Create Diwali Greeting Wish image with your Name.  
 
@@ -24,7 +21,7 @@ Create Happy Diwali 🪔 Greeting Wishes with Name in image.
 
 ## API
 
-- API for Generate the diwali wish image with name - <https://github.com/sanwebinfo/astro-diwali-wishes/tree/main/api>  
+- API for Generate the diwali wish image with name 
 
 > May this Diwali bring prosperity, wealth, and success to you and your family.  
 
